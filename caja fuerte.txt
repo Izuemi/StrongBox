@@ -6,3 +6,4 @@ in U$D 100
 
 in 0.000234 BTC
 in 0.0745 ETH
+in 0.007231 BTC
