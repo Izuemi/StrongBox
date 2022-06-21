@@ -3,3 +3,10 @@ in $ 1.000
 in $5.000
 in $9.000
 in U$D 100
+
+in 0.000234 BTC
+in 0.0745 ETH
+in 0.007231 BTC
+
+	if btc < 0.00349 
+		buy more!
