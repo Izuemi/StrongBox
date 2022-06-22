@@ -10,3 +10,8 @@ in 0.007231 BTC
 
 	if btc < 0.00349 
 		buy more!
+
+{multi if funcitioning True
+		pass pass 01
+		print file > 0101101;
+			ejecute multithreaded cpu2;;;;}
