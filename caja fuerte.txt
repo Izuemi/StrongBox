@@ -10,3 +10,6 @@ in 0.007231 BTC
 
 	if btc < 0.00349 
 		buy more!
+
+super if btc >=>=>= 0.22
+		ejecute command 2=2;
